@@ -11,10 +11,13 @@
     <div class="module-one">
         <ul>
             <li>Item 1</li>
-            <li>Item 2</li>
-            <li>Item 3</li>
             <li>Item 4</li>
         </ul>
+    </div>
+
+    <!-- Module Two added form other Developer -->
+    <div class="module-two">
+        <p>New awesome Module</p>
     </div>
     
 </body>

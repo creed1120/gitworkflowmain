@@ -20,6 +20,11 @@
     <div class="module-two">
         <p>New awesome Module</p>
     </div>
+
+    <!-- Module Three added from other Developer -->
+    <div class="module-add-address">
+        <p>Add Address Module</p>
+    </div>
     
 </body>
 </html>

@@ -28,6 +28,12 @@
     <div class="module-delete-address">
         <p>Delete address Module</p>
     </div>
+
+
+   
+    <div class="module-coupon-code">
+        <p>Coupon code Module</p>
+    </div>
     
 </body>
 </html>

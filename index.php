@@ -24,6 +24,9 @@
     <!-- Module Three added from other Developer -->
     <div class="module-add-address">
         <p>Add Address Module</p>
+    <!-- Module Two added form other Developer -->
+    <div class="module-delete-address">
+        <p>Delete address Module</p>
     </div>
     
 </body>
